@@ -51,6 +51,8 @@ We welcome contributions from all participants! If you have ideas, suggestions, 
 - **Web**: [Radhey Kalra](https://github.com/jR4dh3y)
 - **Web**: [Vikas Sharma](https://github.com/vsbrall143)
 - **Android**: [Himanshu Sharma](https://github.com/Him-anshuSharma)
+- **Web**: [Shalin Sharma](https://github.com/)
+- **Andriod**: [Abhishek Gupta](https://github.com/thatsabhishek)
 - **Web**: [Shalin Sharma](https://github.com/shalin7675)
 - **Web**: [Sourav Sharma](https://github.com/Sourav5harma)
 
