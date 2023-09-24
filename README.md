@@ -42,6 +42,7 @@ We welcome contributions from all participants! If you have ideas, suggestions, 
 
 - **Android Mentor**: [Abhinandan Trilokia](https://github.com/Trilokia)
 - **Web Mentor**: [Atul Sharma](https://github.com/atul573/)
+- **Web**: [Saksham Singh Jamwal](https://github.MajXin/)
 - **Web**: [Daljeet Kumar](https://github.com/iamdaljeet)
 - **Android**: [Falgun Mahajan](https://github.com/falgunmahajan)
 - **Android**: [Rishita Sharma](https://github.com/Rishitassharma)
