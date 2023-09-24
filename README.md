@@ -42,12 +42,12 @@ We welcome contributions from all participants! If you have ideas, suggestions, 
 
 - **Android Mentor**: [Abhinandan Trilokia](https://github.com/Trilokia)
 - **Web Mentor**: [Atul Sharma](https://github.com/atul573/)
+- **Android**: [Pralin Khaira](https://github.com/pralinkhaira)
 - **Android**: [Sourav Mishra](https://github.com/souravvmishra)
 - **Web**: [Hiteash Mahajan](https://github.com/hiteashgupta1)
 - **Web**: [Radhey Kalra](https://github.com/jR4dh3y)
 - **Web**: [Vikas Sharma](https://github.com/vsbrall143)
 - **Android**: [Himanshu Sharma](https://github.com/Him-anshuSharma)
-- **Web**: [Shalin Sharma](https://github.com/)
 
 
  As part of this program, you'll engage with the community by participating in one or more tasks on a timely basis with **Google Developers Group Jammu's*** support.
